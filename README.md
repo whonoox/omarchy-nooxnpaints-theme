@@ -62,15 +62,14 @@ omarchy theme install https://github.com/whonoox/omarchy-nooxnpaints-theme.git
 
 ## 🖼️ Included Art Wallpapers
 
-The theme includes 8 artworks curated specifically for this palette:
-- `1.HIV-AIDS.jpeg`
-- `2.lalibela.jpeg` (Rock-hewn churches of Lalibela)
-- `3.SofUmar.jpeg` (Sof Omar Caves)
-- `4.Taxi.jpeg` (Blue/green minibus taxi)
-- `5.Tiya.jpeg` (Tiya Megalithic Stelae)
-- `paintings5.jpg` (Textured canvas)
-- `paintings13.jpg` (Pagoda & serene heron)
-- `trimmed.webp` (Abstract luminous wave)
+The theme includes 7 artworks curated specifically for this palette:
+- `1.HIV-AIDS.webp`
+- `2.lalibela.webp` (Rock-hewn churches of Lalibela)
+- `3.SofUmar.webp` (Sof Omar Caves)
+- `4.Taxi.webp` (Blue/green minibus taxi)
+- `5.Tiya.webp` (Tiya Megalithic Stelae)
+- `paintings5.webp` (Textured canvas)
+- `paintings13.webp` (Pagoda & serene heron)
 
 Switch wallpapers anytime using `Super + Ctrl + Space` (Wallpaper Picker) or `omarchy theme bg next`.
 
